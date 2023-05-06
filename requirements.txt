@@ -1,0 +1,13 @@
+chromadb
+ipykernel
+ipywidgets
+langchain 
+llama_index
+openai
+pinecone-client
+pytesseract
+python-dotenv
+sentence_transformers
+simplegmail
+torch
+transformers
