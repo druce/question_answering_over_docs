@@ -4,6 +4,7 @@ ipywidgets
 langchain 
 llama_index
 openai
+pdf2image
 pinecone-client
 pytesseract
 python-dotenv
@@ -11,3 +12,4 @@ sentence_transformers
 simplegmail
 torch
 transformers
+
