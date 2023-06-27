@@ -6,6 +6,7 @@ tiktoken==0.4.0
 toml==0.10.2
 tomli==2.0.1
 unstructured==0.7.8
+libmagic
 
 chromadb
 ipykernel
